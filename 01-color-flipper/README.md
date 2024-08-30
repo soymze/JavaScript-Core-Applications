@@ -1,5 +1,7 @@
 # Color Flipper
 
+![Alt Text](https://github.com/soymze/JavaScript-Core-Applications/blob/master/color-flipper.gif)
+
 ## Description
 A simple web application that allows users to change the background color of the webpage by clicking a button. The color changes randomly from a predefined set of colors each time the button is clicked.
 
