@@ -1,5 +1,5 @@
 # 12-countdown-timer
-![coundown-timer}(https://github.com/soymze/JavaScript-Core-Applications/blob/master/countdown.gif)
+![coundown-timer](https://github.com/soymze/JavaScript-Core-Applications/blob/master/countdown.gif)
 ## Description
 This project features a countdown timer built using HTML, CSS, and JavaScript. It allows users to set a specific duration for a countdown and displays the remaining time in a user-friendly format. Ideal for applications where time management is crucial.
 
