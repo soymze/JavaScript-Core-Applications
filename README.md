@@ -1,46 +1,34 @@
-# Vanilla JS Projects
+# JavaScript Core Applications
 
-#### Enroll In The Course
+## Overview
 
-[My Javascript Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/?referralCode=DD9FA6C0D976918D3E1C)
+This repository contains core JavaScript applications that demonstrate fundamental JavaScript concepts and functionalities. The projects include basic to intermediate level JavaScript applications that cover a range of functionalities and use cases.
 
-#### Support
+## Technologies Used
 
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
+- JavaScript (ES6+)
+- HTML
+- CSS
+- DOM Manipulation
+- Event Handling
 
-## You can see all projects in action here
+## Purpose
 
-[Projects](https://www.vanillajavascriptprojects.com/)
+These core JavaScript applications are designed to showcase various aspects of JavaScript programming. They serve as practical examples for learning and understanding core JavaScript concepts, including DOM manipulation, event handling, and basic application development.
 
-1. Color Flipper
-2. Counter
-3. Reviews
-4. Navbar
-5. Sidebar
-6. Modal
-7. Questions
-8. Menu
-9. Video
-10. Scroll
-11. Tabs
-12. Countdown Timer
-13. Lorem Ipsum
-14. Grocery Bud
-15. Slider
+## Projects
 
-#### Course Exclusive
+- **Project 1**: Description of the first JavaScript application.
+- **Project 2**: Description of the second JavaScript application.
+- **Project 3**: Description of the third JavaScript application.
 
-16. Counters (OOP)
-17. Gallery (OOP)
-18. Numbers
-19. Dark Mode
-20. Filters
-21. Dad Jokes
-22. Products
-23. Random User
-24. Cocktails
-25. Slider
-26. Stripe Submenus
-27. Pagination
-28. Wikipedia
-29. Comfy Sloth
+*(Add more projects as needed)*
+
+## Contributing
+
+Contributions, suggestions, and improvements are welcome! Feel free to open an issue or submit a pull request if you have ideas or enhancements.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
